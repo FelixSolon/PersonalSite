@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Title.css';
+import './Contact.css';
 
 class Section extends Component {
     constructor (props) {
@@ -8,8 +8,7 @@ class Section extends Component {
     render () {
         return (
             <div>
-                <h1 className="title">Hi. I'm Eric. And I'm a back end designer.</h1>
-                <p>(Hi Eric)</p>
+                <h1 className="title">This is the contact page</h1>
             </div>
         )
     }

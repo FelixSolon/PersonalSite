@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './section.css';
 import Title from '../Title'
+import Contact from '../Contact'
 
 class Section extends Component {
     constructor (props) {
